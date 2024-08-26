@@ -82,3 +82,10 @@ Backend разработчик с опытом разработки микрос
 
 **Английский** (B1)  
 **Русский** (Носитель)
+
+
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=NovokshanovEA&color=DE002D">
+   </a>
+</div>
